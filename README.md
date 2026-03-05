@@ -1,1 +1,1 @@
-# deepseek2
+# https://deepseek.com
